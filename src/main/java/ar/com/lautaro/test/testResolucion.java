@@ -3,7 +3,7 @@ package ar.com.lautaro.test;
 
 import java.util.*;
 
-public class testResolucionClase {
+public class testResolucion{
     public static void main(String[] args) {
         /*Consigna del ejercicio:
         
